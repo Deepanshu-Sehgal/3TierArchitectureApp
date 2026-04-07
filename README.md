@@ -2,6 +2,8 @@
 A 3-Tier Architecture app separates the presentation, application, and database layers, enhancing scalability, manageability, and security. This project showcases a robust AWS implementation of the architecture.
 
 ---
+# 3 Tier Architecture
+![Screenshot](/3 Tier Architecture.png)
 
 ## 🚀 **In this Project, I have used the following AWS services:**
 
